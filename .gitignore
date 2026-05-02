@@ -1,0 +1,11 @@
+.env
+.venv
+.vscode
+input/
+output/
+sam3/
+sam3.pt
+sam3.pth
+sam3.safetensors
+__pycache__/
+*.pyc
